@@ -1,0 +1,19 @@
+{
+  "name": "InstantWhatsApp 2.0",
+  "short_name": "InstantWA",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101614",
+  "theme_color": "#101614",
+  "lang": "pt-BR",
+  "description": "Abra conversas sem salvar contatos; favoritos e histórico no dispositivo.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
